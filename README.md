@@ -107,3 +107,4 @@ graph TD
     2670["Memory & Context Engine<br>Python, SQLite"] -->|uses utility libs| 2664["Python Ecosystem Libraries<br>gTTS, PyAudio, Torch, Requests, etc."]
     2671["Data Analysis & Daemons<br>Python"] -->|runs as background process via| 2661["Operating System Services<br>File System, Process Mgmt"]
 ```
+<div><img src="https://github.com/BCICDIS/K.E.N.D.R.A-RA1018/blob/main/public/kendrah.drawio.svg"/></div>
