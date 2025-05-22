@@ -7,12 +7,13 @@ Arsenally a super intelligent system.
 ![Usage: Cybersecurity & Hacking](https://img.shields.io/badge/usage-cybersecurity_&_hacking-darkgreen?style=for-the-badge)
 ![Usage: Military](https://img.shields.io/badge/usage-military-black?style=for-the-badge)
 
-# Frameworks (Built-in)
+## Frameworks (Built-in)
 | Name \[🔗]         | Description                                                                                                                                                                              | Category                 |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Cyberlaw](#)      | A martial law in cyberspace.                                                                                                                                                             | Cybersecurity & Hacking    |
 | [BlackDevForge](#) | A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention. | AI / Automation / DevOps |
 
+## Current Diagram
 ```mermaid
 graph TD
 
