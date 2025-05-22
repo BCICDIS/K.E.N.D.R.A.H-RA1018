@@ -121,4 +121,80 @@ graph TD
     2670["Memory & Context Engine<br>Python, SQLite"] -->|uses utility libs| 2664["Python Ecosystem Libraries<br>gTTS, PyAudio, Torch, Requests, etc."]
     2671["Data Analysis & Daemons<br>Python"] -->|runs as background process via| 2661["Operating System Services<br>File System, Process Mgmt"]
 ```
+**In Repo Diagram**
+
+```mermaid
+flowchart TB
+    %% External systems
+    Python["Python Interpreter / OS Services"]:::external
+    ExternalAPI["External Network / APIs"]:::external
+
+    %% Static assets
+    AssetsDir["public/assets"]:::assets
+    AssetsFile["assets.md"]:::assets
+
+    %% Project metadata
+    README["README.md"]:::external
+    LICENSE["LICENSE"]:::external
+    GITIGNORE[".gitignore"]:::external
+
+    %% Internal monolith
+    subgraph "K.E.N.D.R.A AI Platform"
+        direction TB
+        App["K.E.N.D.R.A AI Platform"]:::internal
+
+        subgraph "Configuration & Environment"
+            direction TB
+            ConfigEnv["Configuration & Environment"]:::internal
+            AssetLoader["Asset Loader"]:::internal
+        end
+
+        subgraph "Core Intelligence Logic"
+            direction TB
+            Cyberlaw["Cyberlaw Framework"]:::internal
+            BlackDevForge["BlackDevForge Framework"]:::internal
+            IntelligenceModules["Intelligence Modules"]:::internal
+        end
+
+        subgraph "Security & Cyber Modules"
+            direction TB
+            SecurityModules["Security & Cyber Modules"]:::internal
+        end
+    end
+
+    %% Connections
+    App -->|uses| ConfigEnv
+    App -->|runs| AssetLoader
+    App -->|integrates| Cyberlaw
+    App -->|integrates| BlackDevForge
+    App -->|executes| IntelligenceModules
+    App -->|executes| SecurityModules
+    App -->|depends on| Python
+
+    AssetLoader -->|reads| AssetsFile
+    AssetsDir -->|contains| AssetsFile
+    SecurityModules -->|calls| ExternalAPI
+
+    README -->|docs| App
+    LICENSE -->|license| App
+    GITIGNORE -->|gitignore| App
+
+    %% Click Events
+    click App "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/K_E_N_D_R_A_H.py"
+    click AssetLoader "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/K_E_N_D_R_A_H.py"
+    click Cyberlaw "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/K_E_N_D_R_A_H.py"
+    click BlackDevForge "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/K_E_N_D_R_A_H.py"
+    click AssetsDir "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/tree/main/public/assets/"
+    click AssetsFile "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/public/assets/assets.md"
+    click README "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/README.md"
+    click LICENSE "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/tree/main/LICENSE"
+    click GITIGNORE "https://github.com/bcicdis/k.e.n.d.r.a-ra1018/blob/main/.gitignore"
+
+    %% Styles
+    classDef internal fill:#ADD8E6,stroke:#0000FF
+    classDef external fill:#D3D3D3,stroke:#808080
+    classDef assets fill:#90EE90,stroke:#008000
+```
+**Image Diagram**
+
 <div><img src="https://github.com/BCICDIS/K.E.N.D.R.A-RA1018/blob/main/public/kendrah.drawio.svg"/></div>
