@@ -1,7 +1,14 @@
 # K.E.N.D.R.A-RA1018
 Arsenally a super intelligent system.
 
-# Code Visualization
+![Continued Development](https://img.shields.io/badge/development-continued-blue?style=for-the-badge)
+![License: Proprietary](https://img.shields.io/badge/license-proprietary-red?style=for-the-badge)
+![Usage: Intelligence](https://img.shields.io/badge/usage-intelligence-purple?style=for-the-badge)
+![Usage: Cybersecurity & Hacking](https://img.shields.io/badge/usage-cybersecurity_&_hacking-darkgreen?style=for-the-badge)
+![Usage: Military](https://img.shields.io/badge/usage-military-black?style=for-the-badge)
+
+
+# Graph
 ```mermaid
 graph TD
 
