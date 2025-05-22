@@ -10,8 +10,8 @@ Arsenally a super intelligent system.
 ## Frameworks (Built-in)
 | Name \[🔗]         | Description                                                                                                                                                                              | Category                 |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [Cyberlaw](#)      | A martial law in cyberspace.                                                                                                                                                             | Cybersecurity & Hacking    |
-| [BlackDevForge](#) | A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention. | AI / Automation / DevOps |
+| [Cyberlaw](https://github.com/BCICDIS/Cyberlaw)      | A martial law in cyberspace.                                                                                                                                                             | Cybersecurity & Hacking    |
+| [BlackDevForge](https://github.com/BlackBlazent/BlackDevForge) | A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention. | AI / Automation / DevOps |
 
 ## Current Diagram
 ```mermaid
