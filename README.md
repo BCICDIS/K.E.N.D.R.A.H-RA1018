@@ -6,6 +6,10 @@ Arsenally a super intelligent system.
 ![Usage: Intelligence](https://img.shields.io/badge/usage-intelligence-purple?style=for-the-badge)
 ![Usage: Cybersecurity & Hacking](https://img.shields.io/badge/usage-cybersecurity_&_hacking-darkgreen?style=for-the-badge)
 ![Usage: Military](https://img.shields.io/badge/usage-military-black?style=for-the-badge)
+![Usage: OS Assistant](https://img.shields.io/badge/Usage-OS%20Assistant-green?style=for-the-badge)
+![Usage: Home Automation](https://img.shields.io/badge/Usage-Home%20Automation-orange?style=for-the-badge)
+![Usage: Embedded System](https://img.shields.io/badge/Usage-Embedded%20System-blueviolet?style=for-the-badge)
+
 
 ### Reach Out Platforms
 
