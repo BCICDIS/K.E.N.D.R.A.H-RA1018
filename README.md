@@ -365,3 +365,6 @@ flowchart TB
 **Image Diagram**
 
 <div><img src="https://github.com/BCICDIS/K.E.N.D.R.A-RA1018/blob/main/public/kendrah.drawio.svg"/></div>
+
+## License
+**This software is proprietary and not open-source. For usage permissions, contact the developer.**
