@@ -1,5 +1,9 @@
-# K.E.N.D.R.A-RA1018
+# K.E.N.D.R.A.H-RA1018
 Arsenally a super intelligent system.
+
+**An Advanced Autonomous AI System for Next-Gen Productivity and Intelligence**
+
+**K.E.N.D.R.A.H** is a highly advanced AI agent designed to operate across diverse environments — from cybersecurity and military intelligence to content creation, development, and home automation. It functions as a real-time, multi-modal assistant that supports voice commands, text input, and camera-based interaction, seamlessly integrating all forms of communication into an intelligent operational flow.
 
 ![Continued Development](https://img.shields.io/badge/development-continued-blue?style=for-the-badge)
 ![License: Proprietary](https://img.shields.io/badge/license-proprietary-red?style=for-the-badge)
@@ -10,20 +14,9 @@ Arsenally a super intelligent system.
 ![Usage: Home Automation](https://img.shields.io/badge/Usage-Home%20Automation-orange?style=for-the-badge)
 ![Usage: Embedded System](https://img.shields.io/badge/Usage-Embedded%20System-blueviolet?style=for-the-badge)
 
-K.E.N.D.R.A.H-RA1018
 ___
 
-Arsenal'ly a super intelligent system.
-
-An Advanced Autonomous AI System for Next-Gen Productivity and Intelligence
-
-Status: Continues stage
-License: Proprietary 
-Usage: Intelligence, Cybersecurity & Hacking, Military, OS Assistant, Home Automation, Embedded Systems
-
-K.E.N.D.R.A.H is a highly advanced AI agent designed to operate across diverse environments — from cybersecurity and military intelligence to content creation, development, and home automation. It functions as a real-time, multi-modal assistant that supports voice commands, text input, and camera-based interaction, seamlessly integrating all forms of communication into an intelligent operational flow.
-
-Built-in Frameworks (Current):
+## Built-in Frameworks (Current):
 ___
 
 - BlakDevForge: A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention.
@@ -32,8 +25,8 @@ ___
 - Cyberlaw: A martial law in cyberspace.
 [https://github.com/BCICDIS/Cyberlaw]
 
-Personalities:
-Have eight personality traits
+## Personalities:
+Kendrah have eight personality traits
 
 🟡 Yellow core
 🤍 White core
@@ -44,7 +37,7 @@ Have eight personality traits
 💜 Violet core
 🖤 Black core
 
-Core Abilities:
+## Core Abilities:
 ___
 
 - Self repair/Self Learning/Self Improvement 
@@ -60,8 +53,7 @@ ___
 - Computing & AI integration 
 - Master Biometric Configuration 
 
-Official Hardware System Requirements:
-___
+## Official Hardware System Requirements:
 
 1. Full System Deployment (Laptop/Desktop)
 
@@ -84,8 +76,8 @@ Recommended Specs:
     Security: TPM 2.0, Biometric device support
 
 Usage: Enables all features like real-time threat detection, system-wide control, BlakDevForge self-evolution, Cyberlaw enforcement.
-2. Mobile & Smart Devices (Phones/Tablets)
 
+2. Mobile & Smart Devices (Phones/Tablets)
 Ideal for: On-the-go interaction, remote assistant, voice/natural language interface
 
 Minimum Specs:
@@ -103,8 +95,8 @@ CPU: Snapdragon 8 Gen 2 / Apple A16 Bionic or better
      Security: Biometric sensors, Secure Enclave support
 
 Usage: Voice communication, CV, lightweight analytics, remote sync with server, command execution.
-3. Embedded & IoT Systems
 
+3. Embedded & IoT Systems
 Ideal for: Home automation, surveillance, military drones, and edge intelligence
 
 Minimum Specs:
@@ -134,8 +126,7 @@ Special Notes
 
     Military & Critical Infrastructure integrations must use hardened, audited systems with encrypted communications and air-gapped backups.
 
-Quick Detailed Fathom Statement:
-___
+## Quick Detailed Fathom Statement:
 
     Real-Time Voice Interaction: K.E.N.D.R.A.H processes and responds to voice commands instantly, enabling hands-free workflows and natural conversation.
 
@@ -159,8 +150,7 @@ ___
 
     Custom Trading & Data Modules: Supports integration of new trading algorithms and real-time datasets
 
-Coding & Engineering Proficiency:
-
+## Coding & Engineering Proficiency:
 K.E.N.D.R.A.H excels in software development — able to design, code, and deploy full-stack applications with complex logic, cross-platform support, and scalable infrastructure.
 System Intelligence & Optimization:
 
@@ -170,7 +160,7 @@ System Intelligence & Optimization:
 
     Rule-Based Smart Execution: Determines the most efficient execution model depending on available resources
 
-Performance Consideration:
+## Performance Consideration:
 
 Due to its high-level processing, K.E.N.D.R.A.H requires significant RAM, GPU, and storage resources to fully unlock its capabilities. On lower-end systems, users can still benefit from a Basic Workflow Mode, which includes:
 
@@ -183,11 +173,6 @@ Due to its high-level processing, K.E.N.D.R.A.H requires significant RAM, GPU, a
     Video and image generation (light usage)
 
 For full functionality, including multi-video generation, real-time system surveillance, and large-scale task automation, high-performance hardware is strongly recommended.
-
-Repo: https://github.com/BCICDIS/K.E.N.D.R.A-RA1018
-
-#KENDRAH_RA1018 #AI #CyberDefense #AutonomousAgent #AIOS
-
 
 ### Reach Out Platforms
 
