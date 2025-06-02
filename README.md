@@ -19,13 +19,13 @@ ___
 ## Built-in Frameworks (Current):
 ___
 
-- BlakDevForge: A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention.
+- **BlakDevForge**: A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention.
 [BlackDevForge](https://github.com/BlackBlazent/BlackDevForge)
 
-- Cyberlaw: A martial law in cyberspace.
+- **Cyberlaw**: A martial law in cyberspace.
 [Cyberlaw](https://github.com/BCICDIS/Cyberlaw)
 
-- BlackVision
+- **BlackVision**: Advanced computer vision system. [BlackVision](https://github.com/BCICDIS/computer-vision-rfm) 
 
 
 ## Personalities:
