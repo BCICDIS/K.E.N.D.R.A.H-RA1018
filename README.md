@@ -20,10 +20,13 @@ ___
 ___
 
 - BlakDevForge: A cross-platform, self-operating AI agent that lives inside your app — understands your codebase, identifies bugs, improves UI, and evolves your project without developer intervention.
-[https://github.com/BlackBlazent/BlackDevForge]
+[BlackDevForge](https://github.com/BlackBlazent/BlackDevForge)
 
 - Cyberlaw: A martial law in cyberspace.
-[https://github.com/BCICDIS/Cyberlaw]
+[Cyberlaw](https://github.com/BCICDIS/Cyberlaw)
+
+- BlackVision
+
 
 ## Personalities:
 Kendrah have eight personality traits
