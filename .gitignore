@@ -5,3 +5,35 @@
 *.ali
 __docs__/
 .VSCodeCounter/
+
+# === Python Runtime & Caching ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# === Virtual Environments & Dependencies ===
+venv/
+env/
+.venv/
+bin/
+lib/
+develop-eggs/
+dist/
+build/
+*.egg-info/
+
+# === Environment Variables & Secrets ===
+.env
+.flaskenv
+*.secret
+auth.json
+
+# === IDEs & OS Metadata ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
