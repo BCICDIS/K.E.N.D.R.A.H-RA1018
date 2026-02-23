@@ -8,6 +8,7 @@ __docs__/
 
 # === Python Runtime & Caching ===
 __pycache__/
+__pycache__
 *.py[cod]
 *$py.class
 .pytest_cache/
@@ -26,6 +27,7 @@ build/
 
 # === Environment Variables & Secrets ===
 .env
+.env.example
 .flaskenv
 *.secret
 auth.json
